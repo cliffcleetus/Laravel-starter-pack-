@@ -5,23 +5,22 @@ Laravel starter pack  provides you with a massive head start on any laravel web 
 
 # Features
 
-Custom Access Control System (Authentication/Users/Roles/Permissions)
-Login/Logout/Password Reset/Remember Me
-Password Reset E-mail
-Administrator Management
-User Index
-Activate/Deactivate Customers
-Permanently Delete Users
-Create/Manage Roles
-Manage Users Roles/Permissions
-"Login As" User
-Backend Controllers
-Administrator Dashboard with Admin LTE Theme
-Form/HTML Included
-CMS Pages [Add, Edit,Delete,Activation&De-activation]
-Email Contents -Dynamic email contents
-Email Queues
-Site Settings 
+1.  Custom Access Control System (Authentication/Users/Roles/Permissions)
+2.  Login/Logout/Password Reset/Remember Me
+3.  Password Reset E-mail
+4.  Administrator Management
+5.  User Index
+6.  Activate/Deactivate Customers
+7.  Permanently Delete Users
+8.  Create/Manage Roles
+9.  Manage Users Roles/Permissions
+10. Backend Controllers
+11. Administrator Dashboard with Admin LTE Theme
+12. Form/HTML Included
+13. CMS Pages [Add, Edit,Delete,Activation&De-activation]
+14. Email Contents -Dynamic email contents
+15. Email Queues
+16. Site Settings 
 
 
  
