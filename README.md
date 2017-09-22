@@ -1,4 +1,4 @@
-# [Laravel-Starter-Pack]
+# Laravel starter pack
   
 # Introduction
 Laravel starter pack  provides you with a massive head start on any laravel web application. It comes with the main functionalities such as multiple login , Permission settings for   admin users , CMS pages , Email Queues , Email Contents , Site settings etc..We have put a lot of work into it and we hope it serves you well and saves you time!
